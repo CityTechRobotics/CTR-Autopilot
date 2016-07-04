@@ -1,2 +1,2 @@
 # CTR-Autopilot
-CTR-Autopilot is an autopilot (flight controller) project by City Tech Robotics (CTR) 
+CTR-Autopilot is an autopilot (flight controller) project by City Tech Robotics Research Lab (CTR).
